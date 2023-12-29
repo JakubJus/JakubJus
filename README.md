@@ -22,9 +22,11 @@ I'm always open to new ideas and collaborations. If you have a project in mind o
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jakubJus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakubJus&theme=dark&hide_border=false)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
