@@ -29,11 +29,14 @@ I'm always open to new ideas and collaborations. If you have a project in mind o
     <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="36" height="36" alt="Windows" />
 </p>
 
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
+<!-- Add a horizontal line for better separation -->
+---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakubJus&theme=dark&hide_border=false)
-<br/>
+<!-- Add a horizontal line for better separation -->
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
