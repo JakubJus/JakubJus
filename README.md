@@ -31,11 +31,6 @@ I'm always open to new ideas and collaborations. If you have a project in mind o
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<!-- Add a horizontal line for better separation -->
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakubJus&theme=dark&hide_border=false)
-<!-- Add a horizontal line for better separation -->
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubJus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
